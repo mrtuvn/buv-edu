@@ -1,21 +1,19 @@
+@layer reset;
+
 *,
 *::before,
 *::after {
   box-sizing: border-box;
 }
 
-html {
-  color-scheme: dark;
+* {
+  margin: 0;
+  padding: 0;
+  font: inherit;
 }
 
-body {
-  margin: 0;
-  font-family: system-ui;
-  font-size: 1.125rem;
-  line-height: 1.6;
-  color: #ccc;
-  margin-inline: auto;
-  //width: min(80ch, 100% - 4rem);
+html {
+  color-scheme: dark;
 }
 
 img,
