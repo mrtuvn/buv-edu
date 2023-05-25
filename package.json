@@ -1,5 +1,5 @@
 {
-  "name": "training-fe",
+  "name": "training-fe-buv",
   "version": "0.1.0",
   "type": "module",
   "scripts": {
@@ -9,8 +9,7 @@
   },
   "devDependencies": {
     "postcss-preset-env": "^7.8.3",
-    "vite-plugin-html-purgecss": "^0.1.1",
-    "vite": "^3.1.0",
-    "sass": "^1.62.1"
+    "sass": "^1.62.1",
+    "vite": "^3.1.0"
   }
 }
